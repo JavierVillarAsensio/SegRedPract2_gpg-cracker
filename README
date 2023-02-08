@@ -1,0 +1,6 @@
+Hecho por: Ángel Domenech y Javier Villar
+
+Para ejecutarlo solo hace falta poner "make all" en la línea de comandos dentro del directorio con el archivo Makefile
+Al ejecutarlo pedirá un número máximo con de caracteres con el que acotar la búsqueda y al introducirlo esta empezará
+
+El resultado, si lo encuentra, lo almacena en un archivo llamado "decrypted"
